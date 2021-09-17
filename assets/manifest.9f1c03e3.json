@@ -1,8 +1,8 @@
 {
-  "name": "did-you-eat-proto",
-  "short_name": "did-you-eat-proto",
-  "description": "did-you-eat-proto",
-  "lang": "en-US",
+  "name": "밥 먹었니",
+  "short_name": "밥 먹었니",
+  "description": "밥 먹었니",
+  "lang": "ko-KR",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#EE350F",
